@@ -1,0 +1,15 @@
+﻿Dolgozat - 2017-10-12
+
+Készíts ClickCounter alkalmazást, amely 1 db TextView és 3 db Button típusú Widgetből fog állni.
+	- A Layoutnak a háttere legyen fekete.
+	- A textView kezdeti értéke legyen 0.
+	- A textView szövegének a mérete legyen 30dp és piros színű
+	- A gombok sorrendben "+", "-" és "reset" feliratokat kapják meg.
+	- A "+" gombra való kattintáskor a textView-ban lévő szám növekedjen meg 1-el, "-" esetén csökkenjen 1-el!
+	- A "reset" gomb állítsa be a TextView értékét 0 ra.
+	- Ha a "+", "-" gombokra való kattintás összértéke eléri a 20-at (20 kattintást végeznek összesen a két gombon), akkor egy toast üzenetben jelenjen meg az "Unatkozol szöveg" hosszú ideig.
+	- Az alkalmazást ne lehessen elforgatni, csak LandScape üzemmódban lehessen használni!
+	- Az alkalmazás ikonja legyen az alapértelmezettől eltérő.
+	
+Küld el az elkészült programot a gyakorlati tanárodnak. (Aki gitHub-on keresztül osztja meg, az 1 jeggyel jobban kap)
+	
